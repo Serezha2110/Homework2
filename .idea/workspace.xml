@@ -13,8 +13,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1i06kgJUemtHtlyuI4UGFrRWzRu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601032306357</updated>
-      <workItem from="1601032307453" duration="5261000" />
+      <workItem from="1601032307453" duration="5562000" />
     </task>
     <servers />
   </component>
@@ -91,6 +95,14 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="455" y="460" key="Github.CreateGistDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1601037902226" />
+    <state x="504" y="438" key="Github.ShareDialog" timestamp="1601038028343">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="504" y="438" key="Github.ShareDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1601038028343" />
+    <state x="427" y="245" key="Github.UntrackedFilesDialog" timestamp="1601038187068">
+      <screen x="0" y="0" width="2498" height="1080" />
+    </state>
+    <state x="427" y="245" key="Github.UntrackedFilesDialog/0.0.2498.1080@0.0.2498.1080" timestamp="1601038187068" />
     <state width="1203" height="292" key="GridCell.Tab.0.bottom" timestamp="1601037925626">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
@@ -123,9 +135,9 @@
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
     <state x="339" y="139" width="585" height="801" key="find.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1601035848293" />
-    <state x="294" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601037978717">
+    <state x="294" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1601038018339">
       <screen x="0" y="0" width="2498" height="1080" />
     </state>
-    <state x="294" y="239" width="672" height="678" key="search.everywhere.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1601037978717" />
+    <state x="294" y="239" width="672" height="678" key="search.everywhere.popup/0.0.2498.1080@0.0.2498.1080" timestamp="1601038018339" />
   </component>
 </project>
